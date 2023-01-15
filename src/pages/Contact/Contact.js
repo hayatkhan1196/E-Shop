@@ -1,7 +1,11 @@
 import React from "react";
-import styled from "./Contact.module.scss";
+// import styled from "./Contact.module.scss";
 const Contact = () => {
-  return <div>contact</div>;
+  return (
+    <div>
+      <h2>contact</h2>
+    </div>
+  );
 };
 
 export default Contact;
